@@ -6,12 +6,12 @@
 - Due Date: March 24, 2025
 
 ## Team Members
-- [Nonkosi Kutyiswayo]
-- [Maleeha Mangera]
-- [Nosipho Manzini]
-- [Shumani Mathada].
-- [Khanyisile Sithole].
-- [Palesa Shiluvane].
+- Nonkosi Kutyiswayo
+- Maleeha Mangera
+- Nosipho Manzini
+- Shumani Mathada.
+- Khanyisile Sithole.
+- Palesa Shiluvane.
 
 
 ## Project Description
