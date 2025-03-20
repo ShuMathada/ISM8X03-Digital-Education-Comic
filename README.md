@@ -19,9 +19,8 @@ This project presents a digital comic strip narrating the journey of a rural stu
 
 ## Table of Contents
 - [Comic Strip](./ComicStrip/)
-- [Architectural Models](./ArchitecturalModels/)
+- [Enterprise Architectural Models](./ArchitecturalModels/)
 - [Context Mapping](./ContextMapping/)
-- [Digital Prototype](./Prototype/)
 - [Supporting Documents](./SupportingDocuments/)
 
 ## How to Navigate This Repository
